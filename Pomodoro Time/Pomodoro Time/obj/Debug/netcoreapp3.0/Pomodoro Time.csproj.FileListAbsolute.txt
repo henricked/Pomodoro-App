@@ -1,0 +1,11 @@
+C:\Marko Bisevac\C#\Pomodoro App\Pomodoro Time\Pomodoro Time\bin\Debug\netcoreapp3.0\Pomodoro Time.exe
+C:\Marko Bisevac\C#\Pomodoro App\Pomodoro Time\Pomodoro Time\bin\Debug\netcoreapp3.0\Pomodoro Time.deps.json
+C:\Marko Bisevac\C#\Pomodoro App\Pomodoro Time\Pomodoro Time\bin\Debug\netcoreapp3.0\Pomodoro Time.runtimeconfig.json
+C:\Marko Bisevac\C#\Pomodoro App\Pomodoro Time\Pomodoro Time\bin\Debug\netcoreapp3.0\Pomodoro Time.runtimeconfig.dev.json
+C:\Marko Bisevac\C#\Pomodoro App\Pomodoro Time\Pomodoro Time\bin\Debug\netcoreapp3.0\Pomodoro Time.dll
+C:\Marko Bisevac\C#\Pomodoro App\Pomodoro Time\Pomodoro Time\bin\Debug\netcoreapp3.0\Pomodoro Time.pdb
+C:\Marko Bisevac\C#\Pomodoro App\Pomodoro Time\Pomodoro Time\obj\Debug\netcoreapp3.0\Pomodoro Time.csprojAssemblyReference.cache
+C:\Marko Bisevac\C#\Pomodoro App\Pomodoro Time\Pomodoro Time\obj\Debug\netcoreapp3.0\Pomodoro Time.AssemblyInfoInputs.cache
+C:\Marko Bisevac\C#\Pomodoro App\Pomodoro Time\Pomodoro Time\obj\Debug\netcoreapp3.0\Pomodoro Time.AssemblyInfo.cs
+C:\Marko Bisevac\C#\Pomodoro App\Pomodoro Time\Pomodoro Time\obj\Debug\netcoreapp3.0\Pomodoro Time.dll
+C:\Marko Bisevac\C#\Pomodoro App\Pomodoro Time\Pomodoro Time\obj\Debug\netcoreapp3.0\Pomodoro Time.pdb
